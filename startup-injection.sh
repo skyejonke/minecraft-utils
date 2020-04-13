@@ -1,3 +1,3 @@
 #!/bin/bash
-screen -S minecraft-simplex -X stuff "./startup.sh
-"
+
+screen -r minecraft-simplex -X stuff "./startup.sh \n"
